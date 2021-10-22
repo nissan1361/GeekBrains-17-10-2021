@@ -1,0 +1,2 @@
+Microsoft,Windows,Win64,Proprietary,
+Apple,Mac,Unix,Proprietary
