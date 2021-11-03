@@ -1,0 +1,3 @@
+Linus Torvalds,Linux,GNU,Open Source,
+Solaris,SolarOS,SUN,Proprietary,
+Microsoft,DOS,Win32,Proprietary
